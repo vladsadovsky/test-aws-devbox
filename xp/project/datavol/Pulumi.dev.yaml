@@ -1,4 +1,5 @@
+encryptionsalt: v1:nDUjy28+LF8=:v1:WVf901cfeMIehlXm:amgXkD9rWu8ZcmhXX8MNnSBIC9P/KA==
 config:
   aws:region: us-west-2
-  datavol:az: '0'
-  datavol:volume_size_gb: '40'
+  datavol:az: "0"
+  datavol:volume_size_gb: "40"
