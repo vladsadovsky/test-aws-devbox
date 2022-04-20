@@ -1,0 +1,4 @@
+config:
+  aws:region: us-west-2
+  datavol:az: '0'
+  datavol:volume_size_gb: '40'

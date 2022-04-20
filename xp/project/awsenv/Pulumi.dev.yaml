@@ -1,0 +1,7 @@
+config:
+  aws:region: us-west-2
+  awsenv:root_zone_name: countinglight.dev
+  awsenv:subzone_name: dev
+  awsenv:vpc_cidr: 10.78.0.0/16
+  awsenv:vpc_n_azs: 3
+  awsenv:vpc_n_potential_subnets: 16

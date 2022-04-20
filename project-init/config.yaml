@@ -1,0 +1,7 @@
+license_type: MIT
+friendly_name: Vlad Sadovsky
+legal_name: Vlad Sadovsky
+email_address: vlad_sadovsky@outlook.com
+aws_region: us-west-2
+cloud_subaccount:
+root_zone_name: countinglight.dev
