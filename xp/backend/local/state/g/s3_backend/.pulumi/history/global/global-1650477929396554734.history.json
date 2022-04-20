@@ -1,0 +1,28 @@
+{
+    "kind": "update",
+    "startTime": 1650477927,
+    "message": "Initialized project",
+    "environment": {
+        "exec.kind": "cli",
+        "git.author": "vladsadovsky",
+        "git.author.email": "vlad_sadovsky@outlook.com",
+        "git.committer": "vladsadovsky",
+        "git.committer.email": "vlad_sadovsky@outlook.com",
+        "git.dirty": "true",
+        "git.head": "f642d029759be4b2ded82eb793de6bb5745ad2ab",
+        "git.headName": "refs/heads/master",
+        "vcs.kind": "github.com",
+        "vcs.owner": "vladsadovsky",
+        "vcs.repo": "test-aws-devbox"
+    },
+    "config": {
+        "aws:region": "us-west-2",
+        "s3_backend:backend_url": "s3://087385748193-us-west-2-xpulumi/xpulumi-be"
+    },
+    "version": 0,
+    "result": "succeeded",
+    "endTime": 1650477929,
+    "resourceChanges": {
+        "same": 4
+    }
+}
